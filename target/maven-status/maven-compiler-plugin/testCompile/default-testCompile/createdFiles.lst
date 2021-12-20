@@ -1,0 +1,7 @@
+clickupautomation/domain/Task.class
+clickupautomation/clients/ClickUpClient.class
+clickupautomation/constants/CommonProjectConstants.class
+clickupautomation/domain/List.class
+clickupautomation/domain/Folder.class
+clickupautomation/stepdefinitions/ClickUpSteps.class
+clickupautomation/testrunner/TestRunner.class
